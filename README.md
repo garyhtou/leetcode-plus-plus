@@ -1,7 +1,6 @@
-<div align="center">
-	<img src="images/icon512.png"/ width="200">
-	<h1>LeetCode++</h1>
-</div>
+<img src="https://user-images.githubusercontent.com/20099646/208293756-67c25f09-90c3-4943-9566-4d321e3e0880.png" width="100%"/>
+
+# <img src="images/icon512.png" width="28"/> LeetCode++
 
 Tired of subconsciously hitting the save shortcut `⌘ + s`/`Ctrl + s` while LeetCoding?
 
