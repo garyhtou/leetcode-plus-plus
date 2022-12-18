@@ -7,6 +7,9 @@
 	"license": "MIT",
 	"private": false,
 	"prettier": "@garyhtou/prettier-config",
+	"scripts": {
+		"zip": "git archive -o leetcode-plus-plus-$(npm pkg get version | sed 's/\"//g').zip HEAD"
+	},
 	"devDependencies": {
 		"@garyhtou/prettier-config": "^1.0.1"
 	}
