@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="images/icon512.png"/ style="max-width:15vw;">
+	<img src="images/icon512.png"/ width="200">
 	<h1>LeetCode++</h1>
 </div>
 
