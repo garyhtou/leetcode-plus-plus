@@ -18,4 +18,4 @@ annoyances.
 
 ## Features
 
-<img src="https://user-images.githubusercontent.com/20099646/208290488-6b89da14-e9eb-41da-bacc-e7d98049d0f0.png" align="right" width="400px"/>
+![image](https://user-images.githubusercontent.com/20099646/208292325-59556335-7217-4bf2-8d1e-afeb7d21137e.png)
