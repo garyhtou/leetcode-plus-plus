@@ -16,6 +16,16 @@ annoyances.
 
 ## Installation
 
+TBD. Pending Google Chrome extension approval.
+
+<img src="https://user-images.githubusercontent.com/20099646/208292325-59556335-7217-4bf2-8d1e-afeb7d21137e.png" width="400" />
+
+
 ## Features
 
-![image](https://user-images.githubusercontent.com/20099646/208292325-59556335-7217-4bf2-8d1e-afeb7d21137e.png)
+| Feature                         | Description                                                                                                                                                 |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disable save shortcut           | Disables the save shortcut `⌘ + s`/`Ctrl + s` to prevent the save window from popping up                                                                    |
+| Shake editor on save            | Shakes the code editor to discourage use of the save shortcut                                                                                               |
+| Disable VS Code format shortcut | Disables the default VS Code format shortcut `⌥ + Shift + f` to prevent the insert of the `Ï` character. LeetCode doesn't provide a format feature/shortcut |
+| Shake editor on format          | Shakes the code editor to discourage use of the format shortcut                                                                                             |
