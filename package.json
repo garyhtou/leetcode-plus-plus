@@ -1,0 +1,13 @@
+{
+	"name": "leetcode-plus-plus",
+	"version": "1.0.0",
+	"description": "Disable your browser's save shortcut on LeetCode — and a few other annoyances.",
+	"repository": "https://github.com/garyhtou/leetcode-plus-plus",
+	"author": "Gary Tou <gary@garytou.com> (https://garytou.com)",
+	"license": "MIT",
+	"private": false,
+	"prettier": "@garyhtou/prettier-config",
+	"devDependencies": {
+		"@garyhtou/prettier-config": "^1.0.1"
+	}
+}

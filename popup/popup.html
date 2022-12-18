@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="popup.css" />
+		<title>LeetCode No Save</title>
+	</head>
+	<body>
+		<div class="page">
+			<div class="header">
+				<img src="../images/icon128.png" alt="logo" class="logo" />
+				<h1>LeetCode No Save</h1>
+			</div>
+			<div class="content">
+				<p class="mt0">
+					Disable your browser's save shortcut (
+					<span class="kbd-meta"><kbd>cmd</kbd>/<kbd>ctrl</kbd></span> +
+					<kbd>s</kbd>) on LeetCode — and a few other annoyances.
+				</p>
+
+				<div class="options">
+					<h2 class="h3 mb1">Settings</h2>
+					<div class="option">
+						<input type="checkbox" id="option-disable-save" />
+						<label for="option-disable-save"
+							>Disable save shortcut
+							<code>
+								<span class="kbd-meta"><kbd>⌘</kbd>/<kbd>Ctrl</kbd></span>
+								+
+								<kbd>s</kbd>
+							</code>
+						</label>
+					</div>
+					<div class="option ml2" show-if="disable-save">
+						<input type="checkbox" id="option-save-reinforcement" />
+						<label for="option-save-reinforcement"
+							>Shake code editor to discourge use of <b>save</b> shortcut</label
+						>
+					</div>
+					<div class="option">
+						<input type="checkbox" id="option-disable-vscode-format" />
+						<label for="option-disable-vscode-format">
+							Disable VS Code format command
+							<br />
+							<small>
+								Using the default VS Code format command
+								<code>
+									<span class="kbd-opt"> <kbd>⌥</kbd>/<kbd>Alt</kbd></span> +
+									<kbd>Shift</kbd> + <kbd>f</kbd>
+								</code>
+								inserts a
+								<span class="mono bold">Ï</span>.
+							</small>
+						</label>
+					</div>
+					<div class="option ml2" show-if="disable-vscode-format">
+						<input type="checkbox" id="option-format-reinforcement" />
+						<label for="option-format-reinforcement"
+							>Shake code editor to discourge use of
+							<b>format</b> shortcut</label
+						>
+					</div>
+				</div>
+
+				<div class="footer">
+					<p>
+						Made with 💖 by
+						<a
+							href="https://garyhtou.com"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Gary Tou</a
+						>
+					</p>
+					<p>
+						<a
+							href="https://github.com/garyhtou/leetcode-no-save"
+							target="_blank"
+							rel="noopener noreferrer"
+							>Open Source</a
+						>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<script src="../vendor/jquery/jquery-3.6.2.min.js"></script>
+		<script src="../vendor/jquery-ui/jquery-ui-1.13.2.min.js"></script>
+		<script src="popup.js"></script>
+	</body>
+</html>

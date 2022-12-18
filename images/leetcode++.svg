@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="r5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.690534, 0.690534, -0.690534, 0.690534, -0.000173, -0.000479)" style="transform-origin: center center;">
+      <stop stop-color="#F5AF19"/>
+      <stop offset="1" stop-color="#F12711"/>
+    </linearGradient>
+  </defs>
+  <rect id="r4" width="500" height="500" rx="128" fill="url(#r5)" stroke="#FFFFFF" stroke-width="0" stroke-opacity="100%" paint-order="stroke" style=""/>
+  <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" width="352" height="352" x="80" y="80" alignment-baseline="middle" style="color: rgb(255, 255, 255);" transform="matrix(22, 0, 0, 22, 67.51000213623047, 92.5019989013672)">
+    <path d="M 7.545 13.409 L 5.045 13.409 C 3.941 13.409 3.045 12.514 3.045 11.409 L 3.045 2.909 C 3.045 1.805 3.941 0.909 5.045 0.909 L 8.881 0.909 C 9.146 0.909 9.401 1.015 9.588 1.202 L 13.493 5.107 C 13.526 5.14 13.545 5.185 13.545 5.232 C 13.545 5.33 13.465 5.409 13.368 5.409 L 10.045 5.409 C 9.493 5.409 9.045 4.961 9.045 4.409 L 9.045 1.159" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style=""/>
+    <path d="M 12.01 10.339 L 12.01 11.874 M 12.01 11.874 L 12.01 13.409 M 12.01 11.874 L 13.545 11.874 M 12.01 11.874 L 10.475 11.874" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style=""/>
+    <path d="M 8.041 7.269 L 8.041 8.804 M 8.041 8.804 L 8.041 10.339 M 8.041 8.804 L 9.576 8.804 M 8.041 8.804 L 6.506 8.804" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style=""/>
+    <path d="M 8.299 6.042 L 8.299 8.292 M 8.299 8.292 L 8.299 10.542 M 8.299 8.292 L 10.549 8.292 M 8.299 8.292 L 6.049 8.292" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="visibility: hidden;" transform="matrix(1, 0, 0, 1, 0.090629, 0.028467)"/>
+  </svg>
+</svg>
