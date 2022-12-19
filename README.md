@@ -7,6 +7,17 @@ Tired of subconsciously hitting the save shortcut `⌘ + s`/`Ctrl + s` while Lee
 Fear no more! This Chrome extension disables the save shortcut on LeetCode — and a few other
 annoyances.
 
+<br/>
+
+<div align="center">
+	👉 <a href="https://chrome.google.com/webstore/detail/leetcode%2B%2B/ppbephpoildgddohjlbimgggpnpdpfaj/">
+		<code><b>Install on the Chrome Web Store</b></code>
+	</a> 👈
+ </div>
+
+<br/>
+<br/>
+
 
 | ![Before: Browser save window opens](https://user-images.githubusercontent.com/20099646/208290933-28588549-6e8a-4d33-aad7-0209163cd183.gif) | ![After: ](https://user-images.githubusercontent.com/20099646/208290931-d8f9a022-d7c3-44dc-ae27-ff3a5fea0723.gif)       |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -15,10 +26,9 @@ annoyances.
 
 ## Installation
 
-TBD. Pending Google Chrome extension approval.
+Install on the [**`Chrome Web Store`**](https://chrome.google.com/webstore/detail/leetcode%2B%2B/ppbephpoildgddohjlbimgggpnpdpfaj/)
 
 <img src="https://user-images.githubusercontent.com/20099646/208292325-59556335-7217-4bf2-8d1e-afeb7d21137e.png" width="400" />
-
 
 ## Features
 
